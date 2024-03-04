@@ -1,0 +1,60 @@
+11:00:06.545 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+11:00:06.747 [main] INFO  TestCases.TC001_beCognizant - validating the header
+11:00:08.279 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+11:00:13.101 [main] INFO  TestCases.TC001_beCognizant - Displayed current week
+11:00:41.554 [main] INFO  TestCases.TC001_beCognizant - displayed  tsStatusApproved
+11:00:57.096 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusOverdue
+11:01:12.586 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPartiallyApproved
+11:01:28.204 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPending 
+11:01:43.669 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSaved
+11:01:59.162 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSentBackforRevision
+11:02:14.629 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSubmittedforApproval
+11:02:14.772 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+11:02:16.077 [main] INFO  TestBase.baseClass - closing the browser
+11:03:09.437 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+11:03:09.791 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+11:03:10.792 [main] INFO  TestCases.TC001_beCognizant - verified the account
+11:03:26.556 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+11:03:46.601 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+11:03:47.528 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+11:03:48.529 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+11:03:49.590 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+11:04:20.484 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+11:04:20.656 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+11:04:20.861 [main] INFO  TestCases.TC001_beCognizant - validating the header
+11:04:22.196 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+11:04:27.405 [main] INFO  TestCases.TC001_beCognizant - Displayed current week
+11:04:55.544 [main] INFO  TestCases.TC001_beCognizant - displayed  tsStatusApproved
+11:05:11.027 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusOverdue
+11:05:26.472 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPartiallyApproved
+11:05:41.943 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPending 
+11:05:57.504 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSaved
+11:06:12.990 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSentBackforRevision
+11:06:28.464 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSubmittedforApproval
+11:06:28.645 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+11:06:30.046 [main] INFO  TestBase.baseClass - closing the browser
+14:04:04.868 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+14:04:05.167 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+14:04:06.170 [main] INFO  TestCases.TC001_beCognizant - verified the account
+14:04:29.281 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+14:04:49.313 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+14:04:49.908 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+14:04:50.912 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+14:04:51.849 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+14:05:02.206 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+14:05:02.366 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+14:05:02.566 [main] INFO  TestCases.TC001_beCognizant - validating the header
+14:05:03.979 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+14:05:08.916 [main] INFO  TestCases.TC001_beCognizant - Displayed current week
+14:05:35.625 [main] INFO  TestBase.baseClass - closing the browser
+15:17:13.218 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+15:17:13.477 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+15:17:14.477 [main] INFO  TestCases.TC001_beCognizant - verified the account
+15:17:39.231 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+15:17:59.252 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+15:17:59.867 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+15:18:00.870 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+15:18:02.116 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+15:18:12.551 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+15:18:12.709 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+15:18:12.950 [main] INFO  TestCases.TC001_beCognizant - validating the header
